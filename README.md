@@ -13,8 +13,12 @@ Algumas coisas sobre mim:
 <a href="mailto:hiagogabriel1132@gmail.com?subject=Assunto%20do%20Email&body=Corpo%20do%20Email">![Contato-email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![Contato-instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hiago.gabriel.940098/)
 [![Contato-curriculo-lattes](https://img.shields.io/badge/Curriculo_Lattes-0077B5?style=for-the-badge&logo=&logoColor=white)](https://lattes.cnpq.br/9516535943525871)
+[![Contato-linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-gabriel-94a687336/)
 
+## Minhas estatísticas gerais
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiagogabrielga&show_icons=true&theme=transparent&locale=pt-br)
+
+## Minhas estatísticas de commits
 ![meus-commit](https://github-readme-streak-stats.herokuapp.com/?user=hiagogabrielga&theme=transparent&locale=pt-br)
 
 
