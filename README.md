@@ -30,6 +30,7 @@ Algumas coisas sobre mim:
     <img aling="center" alt=JavaScript src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img aling="center" alt=MySQL src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img aling="center" alt=PHP src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img aling="center" alt=PHP src="https://img.shields.io/badge/React-06bcee?style=for-the-badge&logo=React&logoColor=white">
     
     
 </div>
