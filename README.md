@@ -4,7 +4,7 @@
 
 Algumas coisas sobre mim:
 
-- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, React, Python e React native.
+- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, React, Python e React Native.
 
 - 🏫 Sou estudante do curso técnico em informática integrado ao ensino médio do Instituto Federal de Educação, Ciência e Tecnologia de Rondônia, Campus Vilhena. (IFRO Campus Vilhena)
 
